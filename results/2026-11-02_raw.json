@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-02",
+  "first_recommendation": null,
+  "restaurants": [],
+  "errors": [
+    {
+      "step": "recommend",
+      "type": "AUTH_ERROR",
+      "message": "HTTP 400 API key not valid. Please pass a valid API key."
+    }
+  ]
+}

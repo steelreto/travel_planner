@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-01",
+  "first_recommendation": {
+    "recommended_city": "경주",
+    "weather": "평균 기온 10°C~18°C로 맑고 선선한 가을 날씨가 이어짐",
+    "events": [
+      "경주국제마라톤대회",
+      "신라문화제"
+    ],
+    "reason": "11월 초의 경주는 불국사와 첨성대 주변으로 화려한 단풍이 절정을 이루어 걷기 좋은 여행지입니다. 선선한 가을바람을 느끼며 유적지를 탐방하기에 최적의 시기이며, 다양한 가을 축제가 열려 볼거리도 풍부합니다."
+  },
+  "restaurants": [],
+  "errors": [
+    {
+      "step": "place_search",
+      "type": "AUTH_ERROR",
+      "message": "HTTP 401 wrong appKey(***) format"
+    }
+  ]
+}
